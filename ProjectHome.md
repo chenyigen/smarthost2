@@ -1,0 +1,1 @@
+本hosts能够解决Twitter、Facebook在中国不能使用的问题
